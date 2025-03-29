@@ -55,7 +55,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - layer1
   - $$mdi:apple-keyboard-option$$
   - layer1
   - $$mdi:apple-keyboard-command$$
@@ -120,9 +120,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
