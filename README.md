@@ -11,7 +11,7 @@
 > 
 ---
 # Contact Me
-# Sofle Keymap
+# My Customized Sofle Keyboard Keymap & Layout
 
 
 <img src="keymap-drawer/eyelash_sofle.svg" >
